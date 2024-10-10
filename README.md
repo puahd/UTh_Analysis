@@ -7,3 +7,6 @@ How to run UTh Analysis:
 
 - run "main.py" 
 - run "UTh Data Analysis.exe" in the subfolder /dist
+
+
+Last Update Oct 2024
