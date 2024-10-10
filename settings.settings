@@ -1,0 +1,28 @@
+{
+    "default_constants": "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/Software/UTh_analysis/UTh_Analysis-main/dist/constants - stalag.cfg",
+    "style": "macintosh",
+    "output": "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2410/Test/test",
+    "metadata_history": [
+        "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2409/W\u00e4geprotokoll 13233-13248_test.xlsx",
+        "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2409/W\u00e4geprotokoll 13233-13248.xlsx",
+        "C:/Users/ikerb/Documents/Seafile/Meine Bibliothek/Promotion/01_PhD_Projects/CRM-standards/2023/W\u00e4geprotokolle2023/0123/W\u00e4geprotokoll_HannoTitsch_ 030123.xlsx",
+        "C:\\Users\\ikerb\\Documents\\Seafile\\Meine Bibliothek\\Promotion\\12_GUICode\\GUI\\data\\Stalag_06_21\\W\u00e4geprotokoll.xlsx",
+        "C:\\Users\\ikerb\\Documents\\Seafile\\Meine Bibliothek\\Promotion\\12_GUICode\\BachelorGUI-master\\data\\Nils_140621_20210614-124335\\W\u00e4geprotokoll.xlsx",
+        "C:\\Users\\ikerb\\Documents\\Seafile\\Meine Bibliothek\\Promotion\\05_Paper\\UTh_Paper\\Evaluation sectionwise\\Em3\\inputs.csv",
+        "A:\\Github Repos\\BachelorGUI\\data\\Yting_260321_20210326-103027\\Coral W\u00e4geprotokoll.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\SPA52\\Readin_Metadata.csv",
+        "A:\\Github Repos\\BachelorGUI\\data\\Nils_140621_20210614-124335\\W\u00e4geprotokoll.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\Inga_2018-11-09_WM_20181109-114911\\Metadata.csv",
+        "A:\\Github Repos\\BachelorGUI\\data\\Inga Anfrage\\Readin_Metadata.csv",
+        "A:\\Github Repos\\BachelorGUI\\data\\Em3\\Readin_Metadata.csv",
+        "A:\\Github Repos\\BachelorGUI\\data\\CPR_100221_20210210-114741\\W\u00e4geprotokoll  10989-10993.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2021\\UTh W\u00e4geprotokolle 2021\\0421\\W\u00e4geprotokoll  11051-11065_11090.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2021\\UTh W\u00e4geprotokolle 2021\\0321\\W\u00e4geprotokoll  11035-11050.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2021\\UTh W\u00e4geprotokolle 2021\\0221\\W\u00e4geprotokoll  10989-10993.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2021\\UTh W\u00e4geprotokolle 2021\\0121\\W\u00e4geprotokoll  10900-10902, 10969-10972.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2021\\W\u00e4geprotokoll.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2020\\W\u00e4geprotokoll.xlsx",
+        "A:\\Github Repos\\BachelorGUI\\data\\2019\\2019 W\u00e4geprotokoll.xlsx"
+    ],
+    "layout": "A:/Github Repos/BachelorGUI/dist/GUI/UTh.layout"
+}
