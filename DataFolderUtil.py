@@ -9,10 +9,10 @@ def getFiles(path):
     old_path = os.getcwd()
     os.chdir(path)
     data = glob.glob(os.path.join('*.exp')) + glob.glob(os.path.join('data', '*.exp'))
-    blanks = glob.glob(os.path.join('*blk*.exp')) + glob.glob(os.path.join('data', '*blk*.exp'))
-    yhasu = glob.glob(os.path.join('*yhasU*.exp')) + glob.glob(os.path.join('data', '*yhasU*.exp'))
-    yhasth = glob.glob(os.path.join('*yhasTh*.exp')) + glob.glob(os.path.join('data', '*yhasTh*.exp'))
-    hf = glob.glob(os.path.join('*hf*.exp')) + glob.glob(os.path.join('data', '*hf*.exp'))
+    blanks = glob.glob(os.path.join('*blk*.exp')) + glob.glob(os.path.join('blank', '*blk*.exp'))
+    yhasu = glob.glob(os.path.join('*yhasU*.exp')) + glob.glob(os.path.join('yhas_u', '*yhasU*.exp'))
+    yhasth = glob.glob(os.path.join('*yhasTh*.exp')) + glob.glob(os.path.join('yhas_th', '*yhasTh*.exp'))
+    hf = glob.glob(os.path.join('*hf*.exp')) + glob.glob(os.path.join('hf', '*hf*.exp'))
 
     files = {'data': data, 'blank': blanks, 'yhasth': yhasth, 'yhasu': yhasu, 'hf': hf}
     os.chdir(old_path)

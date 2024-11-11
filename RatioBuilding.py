@@ -729,7 +729,7 @@ class RatioBuilder:
         folder_data = os.path.join(self.data_root_folder, 'data')
         list_data = os.listdir(folder_data)
         names_data = np.sort(np.array(list_data))
-
+        print(names_data)
         # get the laboratory numbers from the data filenames
         self.labNrs = DataFolderUtil.getLabNrsFromList(names_data)
         standard = DataFolderUtil.findStandardNumber(self.data_root_folder)

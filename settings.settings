@@ -1,8 +1,10 @@
 {
     "default_constants": "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/Software/UTh_analysis/UTh_Analysis-main/dist/constants - stalag.cfg",
-    "style": "macintosh",
-    "output": "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2410/Test/test",
+    "style": "Fusion",
+    "output": "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2410/20241023_Aaron_13259_13274_part1",
     "metadata_history": [
+        "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2410/W\u00e4geprotokoll 13303-13318.xlsx",
+        "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2410/W\u00e4geprotokoll 13259-13274.xlsx",
         "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2409/W\u00e4geprotokoll 13233-13248_test.xlsx",
         "/Users/PUA_51/Documents/Dokumente_Aaron/Promotion/UTh/Rohdaten/2409/W\u00e4geprotokoll 13233-13248.xlsx",
         "C:/Users/ikerb/Documents/Seafile/Meine Bibliothek/Promotion/01_PhD_Projects/CRM-standards/2023/W\u00e4geprotokolle2023/0123/W\u00e4geprotokoll_HannoTitsch_ 030123.xlsx",
